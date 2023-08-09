@@ -1,10 +1,5 @@
 /***********************************************************
  ** File:    Entity.h
- ** Project: UMBC Adventure, Fall 2019
- ** Author:  Nicholas Long and Jeremy Dixon
- ** Date     10/14/2019
- ** Section: N/A
- ** E-mail:  nlong2@umbc.edu
  ** This file contains the header file of the Entity class
  **********************************************************/
 #ifndef ENTITY_H_
